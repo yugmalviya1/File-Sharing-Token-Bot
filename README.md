@@ -3,7 +3,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+!;CREATED+BY+YUG+MALVIYA!;A+ADVANCE+BOT+WITH+TOKEN+FEATURE!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+SHARING+BOT!;CREATED+BY+YUG+MALVIYA!;A+ADVANCE+BOT+WITH+TOKEN+FEATURE+MUCH+MORE!)
 </p>
 
 
